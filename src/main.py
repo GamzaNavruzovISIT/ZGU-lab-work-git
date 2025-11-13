@@ -1,4 +1,4 @@
-print("Hello, from feature-2 branch!")
+print("Hello, from hotfix + feature-2!")
 
 def add(a, b):
     return a + b
